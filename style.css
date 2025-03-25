@@ -51,7 +51,12 @@ body {
 .infa {
     color: rgb(99, 99, 99);
     font-size: 20px;
-
+    text-shadow: 0 0 25px gray;
+}
+.yll {
+    color: yellow;
+    font-size: 25px;
+    text-shadow: 0 0 25px yellow;
 }
 .silki a{
 
@@ -92,4 +97,11 @@ body {
 }
 .silki .tb a:hover{    
     background-color: rgb(203,166,47);
+}
+
+.ad {
+    position: absolute;
+    left: 60px;
+    bottom: -300px;
+
 }
